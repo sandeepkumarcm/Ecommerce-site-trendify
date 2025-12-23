@@ -1,12 +1,13 @@
 import React from 'react'
 import { assets } from '../assets/assets'
 import { Link } from 'react-router-dom'
-import { FaLinkedin, FaGithub, FaGlobe, FaEnvelope } from 'react-icons/fa'
+import { FaLinkedin, FaGithub, FaEnvelope } from 'react-icons/fa'
 
 const Footer = () => {
   return (
     <div className="px-5 md:px-20 py-10">
       <div className="flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 text-sm">
+        
         {/* Brand Info */}
         <div>
           <Link to='/'>
@@ -28,33 +29,45 @@ const Footer = () => {
           </ul>
         </div>
 
-        {/* GET IN TOUCH Section */}
+        {/* Get in Touch */}
         <div>
           <p className='mb-5 text-xl font-medium'>GET IN TOUCH</p>
           <ul className='flex flex-col gap-1 text-gray-600'>
             <li>+91 7061521143</li>
-            <li>contact.trendify@info.com</li>
+            <li>cmsandeepkumar049@gmail.com</li>
           </ul>
         </div>
       </div>
 
-      {/* Footer Bottom - Black Background Section */}
+      {/* Footer Bottom */}
       <div className='bg-black mt-10 text-sm text-center text-gray-400 pt-5'>
         <p className='pb-3'>
-          Developed By <u className='text-white'>Prince Kumar</u>. Copyright 2025 Trendify. All rights reserved.
+          Developed By <u className='text-white'>Sandeepkumar C M</u>. © 2025 Trendify. All rights reserved.
         </p>
 
         <div className='flex justify-center gap-6 text-lg pb-5'>
-          <a href="https://www.linkedin.com/in/prince-kumar-455284260/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
+          <a
+            href="https://www.linkedin.com/in/sandeepkumarcm/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-white transition"
+          >
             <FaLinkedin />
           </a>
-          <a href="https://github.com/princekumar39" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
+
+          <a
+            href="https://github.com/sandeepkumarcm"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-white transition"
+          >
             <FaGithub />
           </a>
-          <a href="https://imprincekumar.netlify.app/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
-            <FaGlobe />
-          </a>
-          <a href="mailto:singhaniaprince39@gmail.com" className="hover:text-white transition">
+
+          <a
+            href="mailto:cmsandeepkumar049@gmail.com"
+            className="hover:text-white transition"
+          >
             <FaEnvelope />
           </a>
         </div>
