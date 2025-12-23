@@ -1,8 +1,9 @@
 # 🛒 Sandeepkumar Trendify – Full-Stack E-commerce Website
  🎥 Demo Video: https://youtu.be/-M8IEHbTtbY
+ 
  [GitHub Repository 📂](https://github.com/sandeepkumarcm/Ecommerce-site-trendify)
 
-**Prince Trendify** is a modern and fully functional **MERN stack e-commerce platform** offering a dynamic storefront for customers and a powerful admin dashboard for managing products, orders, and users.
+**Sandeepkumar Trendify** is a modern and fully functional **MERN stack e-commerce platform** offering a dynamic storefront for customers and a powerful admin dashboard for managing products, orders, and users.
 
 ---
 
