@@ -1,6 +1,6 @@
-# 🛒 Prince Trendify – Full-Stack E-commerce Website
+# 🛒 Sandeepkumar Trendify – Full-Stack E-commerce Website
 
-[Live Demo 🚀](https://prince-trendify.netlify.app/) | [GitHub Repository 📂](https://github.com/princekumar39/Ecommerce-site-trendify)
+ [GitHub Repository 📂](https://github.com/sandeepkumarcm/Ecommerce-site-trendify)
 
 **Prince Trendify** is a modern and fully functional **MERN stack e-commerce platform** offering a dynamic storefront for customers and a powerful admin dashboard for managing products, orders, and users.
 
@@ -36,9 +36,9 @@
 
 ---
 📫 Contact
-Prince Kumar
-📧 Email: singhaniaprince39@gmail.com
-🌐 Portfolio: https://imprincekumar.netlify.app/
+Sandeepkumar CM
+📧 Email: cmsandeepkumar049@gmail.com
+
 
 ⭐ Support
 If you liked this project, give it a ⭐ on GitHub and consider following for more!
@@ -55,6 +55,6 @@ If you liked this project, give it a ⭐ on GitHub and consider following for mo
 
 🚀 Getting Started
 Clone the repository and install dependencies:
-git clone https://github.com/princekumar39/Ecommerce-site-trendify
+git clone https://github.com/sandeepkumarcm/Ecommerce-site-trendify
 
 
